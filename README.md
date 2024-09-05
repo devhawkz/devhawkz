@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devhawkz" alt="devhawkz" /></a> </p>
 
-- 🔭 I’m currently working on Personal Finance Tracker app [Personal Finance Tracker](https://github.com/devhawkz/PersonalFinanceTracker)
+- 🔭 I’m currently working on OfferGenerator app [OfferGenerator](https://github.com/devhawkz/OfferGenerator)
 
 - 🌱 I’m currently learning **Blazor WASM and Asp.Net Core WEB API, Entity Framework Core**
 
