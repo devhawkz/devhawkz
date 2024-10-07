@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devhawkz" alt="devhawkz" /></a> </p>
 
-- 🔭 I’m currently working on [OfferGenerator app](https://github.com/devhawkz/OfferGenerator)
+- 🔭 I’m currently working on [OfferGenerator app](https://github.com/devhawkz/OfferGen)
 
 - 🌱 I’m currently learning **Blazor WASM and Asp.Net Core WEB API, Entity Framework Core**
 
