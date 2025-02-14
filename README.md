@@ -12,7 +12,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/devhawkz](https://github.com/devhawkz)
 
 - 💬 Ask me about **anthing related to tech...**
-
+ 
+- 📫 How to reach me **pavlejovanovic34@gmail.com**
+  
 - 📫 How to reach me **skydevhawkz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
